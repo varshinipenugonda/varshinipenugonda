@@ -1,4 +1,4 @@
-### <div align="center"><samp>I'm Bhanu Varshini, Pursing Master's in Advance Data Analytics Program.</samp></div>
+### <div align="center"><samp>I'm Bhanu Varshini, Pursing Master's in Advanced Data Analytics Program.</samp></div>
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 >I am a Master's Student and a passionate learner and always willing to learn and work across technologies and domains.
 
