@@ -1,30 +1,154 @@
-### <div align="center"><samp>I'm Bhanu Varshini, Pursing Master's in Advanced Data Analytics Program.</samp></div>
-![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
->I am a Master's Student and a passionate learner and always willing to learn and work across technologies and domains.
-
-- 🌱 I’m currently learning *Manchine Learning & Python*
-- 👀 I’m looking to collaborate on Github.
-
-
-<a href="mailto:varshinipenugonda@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/VarshiniPenugonda" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/bhanu-varshini-81356a218/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br />
-
-## Languages & Tools
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />
-  
+
+# Hi 👋, I'm Bhanu Varshini Penugonda
+
+### AI/ML Engineer | Generative AI | LLMs | Agentic AI | RAG | MLOps | Cloud AI
+
+Building production-grade AI agents, enterprise LLM applications, and scalable machine learning systems.
+
+<p>
+<a href="mailto:bhanu.varshini09@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhanuvarshini">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VarshiniPenugonda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
-<br/>
+---
+
+## 🚀 About Me
+
+- 💼 AI/ML Engineer with **5+ years** of experience building production AI systems
+- 🤖 Specialized in **LLMs, Agentic AI, RAG, Multi-Agent Systems, Prompt Engineering, and MLOps**
+- ☁️ Experienced with **AWS, Kubernetes, Docker, MLflow, Airflow, Kafka, and Databricks**
+- 🔍 Passionate about building intelligent AI applications that are scalable, reliable, and production-ready
+- 📚 Continuously learning cutting-edge Generative AI, reasoning models, and distributed AI systems
+- 🤝 Open to collaborating on AI, LLM, and open-source projects
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-red?style=for-the-badge)
+
+---
+
+### Machine Learning
+
+- PyTorch
+- Hugging Face Transformers
+- LoRA
+- QLoRA
+- RLHF
+- Deep Learning
+- NLP
+- Reinforcement Learning
+- Model Fine-tuning
+- LLM Evaluation
+
+---
+
+### RAG & Vector Search
+
+- Retrieval-Augmented Generation (RAG)
+- FAISS
+- Pinecone
+- Milvus
+- BM25
+- Embeddings
+- Semantic Search
+- Hybrid Retrieval
+- Reranking
+
+---
+
+### MLOps
+
+- MLflow
+- Airflow
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+---
+
+### Cloud
+
+- AWS
+- Amazon SageMaker
+- EC2
+- EKS
+- S3
+- CloudWatch
+
+---
+
+### Databases
+
+- PostgreSQL
+- Redis
+- Delta Lake
+
+---
+
+# 💡 Areas of Interest
+
+✨ Generative AI
+
+✨ AI Agents
+
+✨ Agentic AI
+
+✨ Retrieval-Augmented Generation (RAG)
+
+✨ Multi-Agent Systems
+
+✨ LLM Optimization
+
+✨ Production AI Systems
+
+✨ Distributed Machine Learning
+
+✨ MLOps
+
+✨ Cloud AI Infrastructure
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** bhanu.varshini09@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/bhanuvarshini
+
+🌐 **GitHub:** https://github.com/VarshiniPenugonda
+
+---
+
+> **"Turning cutting-edge AI research into scalable, production-ready intelligent systems."** 🚀
